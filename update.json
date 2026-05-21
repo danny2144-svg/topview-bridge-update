@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.1",
+    "version":  "1.2.2",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "2725c99f80b502a03f50c6368d0fae90d4dbc9cb74c63a92523253a92993125c",
-    "size":  13175835,
-    "notes":  "TopView Bridge update"
+    "sha256":  "8e4468205e5ba268130ec7f666113ec90a4b26f4df75a2ab161e6d073c4a2ba9",
+    "size":  13177796,
+    "notes":  "분할 균형 조정, 저장창 개선"
 }
