@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.13",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/d630ce5bf0f2344c932249de1f42e87daab4cd18/TopViewBridge.exe",
-    "sha256":  "3c54e864ca3447d5d46e73a0d7a0b897bb3a75b80a0ffa5e750bec859acf32a8",
-    "size":  15315810,
-    "notes":  "5초 자동 확인은 유지하고 화면의 자동 확인 문구 제거"
+    "version":  "1.2.14",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "304faa164e26f302d921f63aa49eaa4eba3effbb6d3086b1440347b3de05d742",
+    "size":  15315034,
+    "notes":  "왼쪽 사이드바 제거, 작업 세션을 상단 설정줄로 이동"
 }
