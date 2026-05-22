@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.6",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/976b57a4e45b936d42d2569c81c8c89b05390370/TopViewBridge.exe",
-    "sha256":  "794719405231ee77c53a402e8ad7a6f9ee4f6436dcef87d0bbba35c30e301ba4",
-    "size":  15300921,
-    "notes":  "7번 Indigo Studio 디자인, Pretendard 글씨체, 작업 세션 목록, 업데이트 캐시 방지"
+    "version":  "1.2.8",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "b138207b020c17fd84def0d1565f0b7b10155cc9d56e14a8a38929e70be7bb2d",
+    "size":  15308156,
+    "notes":  "작업 세션을 왼쪽으로 이동, 계정 연결 창 디자인 개선, 결과 현황 카드와 100자 단위 기준 글자 수"
 }
