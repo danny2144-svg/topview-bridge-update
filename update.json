@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.9",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/f04559cddf29f644c214a4b117ecf732feea0cba/TopViewBridge.exe",
-    "sha256":  "9d8eec3b95c13866828957fb31a4a2c5f1c452bc296d98fa8f7bbb952477ae12",
-    "size":  15308668,
-    "notes":  "보이스 선택과 아바타 사진을 상단으로 이동, 사주 아바타 안내 추가"
+    "version":  "1.2.10",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "ef910b25309c41d9e0fd895b132a475afa6d55c003403f8985c7de2b18180a52",
+    "size":  15309607,
+    "notes":  "보이스 칸 축소, 아바타 사진은 사주 방식에서만 표시 및 사용"
 }
