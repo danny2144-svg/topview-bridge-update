@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.14",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/9c2dc3b980c9e3dfa8a54452e8f49407a7322f97/TopViewBridge.exe",
     "sha256":  "304faa164e26f302d921f63aa49eaa4eba3effbb6d3086b1440347b3de05d742",
     "size":  15315034,
     "notes":  "왼쪽 사이드바 제거, 작업 세션을 상단 설정줄로 이동"
