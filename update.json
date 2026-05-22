@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.12",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/2946e393adc1db68f1702fe31a52eaf5e3d225dd/TopViewBridge.exe",
-    "sha256":  "57785779fc98b12b028e70b14e0700766e2502aa16bc22b5be052d1a62ee7ba4",
-    "size":  15315783,
-    "notes":  "TopView 작업 현황을 텍스트 로그 대신 카드형 현황판과 표로 표시"
+    "version":  "1.2.13",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "3c54e864ca3447d5d46e73a0d7a0b897bb3a75b80a0ffa5e750bec859acf32a8",
+    "size":  15315810,
+    "notes":  "5초 자동 확인은 유지하고 화면의 자동 확인 문구 제거"
 }
