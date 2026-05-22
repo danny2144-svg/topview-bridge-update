@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.11",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/142da3dead59396ebc27a81931cab69b41a88afd/TopViewBridge.exe",
-    "sha256":  "d7c056780ce294784c6b2eea7183ad4f1231aa77b3ed480ba19a6ea240669f65",
-    "size":  15309779,
-    "notes":  "사주 첫 아바타 영상만 150자 고정, 뒤 오디오는 선택 글자 수 기본 700자"
+    "version":  "1.2.12",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "57785779fc98b12b028e70b14e0700766e2502aa16bc22b5be052d1a62ee7ba4",
+    "size":  15315783,
+    "notes":  "TopView 작업 현황을 텍스트 로그 대신 카드형 현황판과 표로 표시"
 }
