@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.10",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/ee8e70d9fa7689ed5dc9723bae05293beb31e5f7/TopViewBridge.exe",
-    "sha256":  "ef910b25309c41d9e0fd895b132a475afa6d55c003403f8985c7de2b18180a52",
-    "size":  15309607,
-    "notes":  "보이스 칸 축소, 아바타 사진은 사주 방식에서만 표시 및 사용"
+    "version":  "1.2.11",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "d7c056780ce294784c6b2eea7183ad4f1231aa77b3ed480ba19a6ea240669f65",
+    "size":  15309779,
+    "notes":  "사주 첫 아바타 영상만 150자 고정, 뒤 오디오는 선택 글자 수 기본 700자"
 }
