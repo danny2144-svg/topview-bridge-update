@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.5",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/28a682b0e3119a43560c179d6057142b6bf28669/TopViewBridge.exe",
     "sha256":  "32b5a8559b7df372b847e5bf9043e0ed9f7930b300b4b0dc73caead8b500934c",
     "size":  15300497,
     "notes":  "7번 Indigo Studio 디자인, Pretendard 글씨체, 작업 세션 목록, 업데이트 확인 안정화"
