@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.13",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/d630ce5bf0f2344c932249de1f42e87daab4cd18/TopViewBridge.exe",
     "sha256":  "3c54e864ca3447d5d46e73a0d7a0b897bb3a75b80a0ffa5e750bec859acf32a8",
     "size":  15315810,
     "notes":  "5초 자동 확인은 유지하고 화면의 자동 확인 문구 제거"
