@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.19",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/b465ef6db2775c145690f38afa20474e038f1b2a/TopViewBridge.exe",
     "sha256":  "29ceea78627bbfac4d98a997c256d9b9d2cb66aa4caf09893b7297773821fd10",
     "size":  15324691,
     "notes":  "사주 첫 사진 영상 modeType 수정, 숨은 실패 표시, 사주 작업에 씨댄스 영상 추가 옵션"
