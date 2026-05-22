@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.8",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/b9dce358d2848b3a221cf2c87e86f98ed89c3db7/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/b9dce35c4fde60a6a736d4425b26e550fe27df37/TopViewBridge.exe",
     "sha256":  "b138207b020c17fd84def0d1565f0b7b10155cc9d56e14a8a38929e70be7bb2d",
     "size":  15308156,
     "notes":  "작업 세션을 왼쪽으로 이동, 계정 연결 창 디자인 개선, 결과 현황 카드와 100자 단위 기준 글자 수"
