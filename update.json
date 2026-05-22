@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.17",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/92be1f31fa3aaeaf27e6717506788f37d408cb4c/TopViewBridge.exe",
-    "sha256":  "376ade26fbe2e7ae6a2299c08c5658f14b526f9c015128854485b4171198c92f",
-    "size":  15314925,
-    "notes":  "TopView 공식 범위에 맞춰 속도 0.8~1.2로 제한하고 감정 전송 검증"
+    "version":  "1.2.18",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "becb5330fc3ef0a5765fa832239cdbf0398016ec1eeb210b5340a630181d9cc3",
+    "size":  15313725,
+    "notes":  "첫 실행은 새 세션으로 시작, 이전 작업은 세션 목록에 보관, 완성 링크 자동 재확인 개선"
 }
