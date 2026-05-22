@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.12",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/2946e393adc1db68f1702fe31a52eaf5e3d225dd/TopViewBridge.exe",
     "sha256":  "57785779fc98b12b028e70b14e0700766e2502aa16bc22b5be052d1a62ee7ba4",
     "size":  15315783,
     "notes":  "TopView 작업 현황을 텍스트 로그 대신 카드형 현황판과 표로 표시"
