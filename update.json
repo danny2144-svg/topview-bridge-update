@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.14",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/9c2dc3b980c9e3dfa8a54452e8f49407a7322f97/TopViewBridge.exe",
-    "sha256":  "304faa164e26f302d921f63aa49eaa4eba3effbb6d3086b1440347b3de05d742",
-    "size":  15315034,
-    "notes":  "왼쪽 사이드바 제거, 작업 세션을 상단 설정줄로 이동"
+    "version":  "1.2.15",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "fa5f079a28730687c171e7dc86a2006f52351b80a4acae32cea716b2d9dcc408",
+    "size":  15312157,
+    "notes":  "원고 작업칸을 줄이고 결과 현황 영역을 넓힘"
 }
