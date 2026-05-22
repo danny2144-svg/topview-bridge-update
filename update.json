@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.9",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/f04559cddf29f644c214a4b117ecf732feea0cba/TopViewBridge.exe",
     "sha256":  "9d8eec3b95c13866828957fb31a4a2c5f1c452bc296d98fa8f7bbb952477ae12",
     "size":  15308668,
     "notes":  "보이스 선택과 아바타 사진을 상단으로 이동, 사주 아바타 안내 추가"
