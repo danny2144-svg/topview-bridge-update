@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.17",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/92be1f31fa3aaeaf27e6717506788f37d408cb4c/TopViewBridge.exe",
     "sha256":  "376ade26fbe2e7ae6a2299c08c5658f14b526f9c015128854485b4171198c92f",
     "size":  15314925,
     "notes":  "TopView 공식 범위에 맞춰 속도 0.8~1.2로 제한하고 감정 전송 검증"
