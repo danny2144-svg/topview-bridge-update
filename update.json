@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.15",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/a419923c181e04277843bcebfd123fea8fe27315/TopViewBridge.exe",
-    "sha256":  "fa5f079a28730687c171e7dc86a2006f52351b80a4acae32cea716b2d9dcc408",
-    "size":  15312157,
-    "notes":  "원고 작업칸을 줄이고 결과 현황 영역을 넓힘"
+    "version":  "1.2.16",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "5cd855ba5d5284b3575b147120235f2a329750e304b260769218e6dfd7792c7f",
+    "size":  15315671,
+    "notes":  "원고 작업과 결과 현황을 반반 비율로 조정"
 }
