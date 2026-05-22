@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.16",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/eeae99ae4bab56e9736d5db77fb7e80652182b31/TopViewBridge.exe",
-    "sha256":  "5cd855ba5d5284b3575b147120235f2a329750e304b260769218e6dfd7792c7f",
-    "size":  15315671,
-    "notes":  "원고 작업과 결과 현황을 반반 비율로 조정"
+    "version":  "1.2.17",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "376ade26fbe2e7ae6a2299c08c5658f14b526f9c015128854485b4171198c92f",
+    "size":  15314925,
+    "notes":  "TopView 공식 범위에 맞춰 속도 0.8~1.2로 제한하고 감정 전송 검증"
 }
