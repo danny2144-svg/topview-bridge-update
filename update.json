@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.35",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/32dfbf61f5c1819f5d7e3690e1476d80b17cfdc9/TopViewBridge.exe",
-    "sha256":  "af008b02473b2f2e65fe582bec0954896ec90aa7a2625dae31084ee867699ae6",
-    "size":  15341549,
-    "notes":  "사주 첫 아바타 영상을 Photo Avatar API의 avatar4 모델로 고정하고 현재 세션 저장 강화"
+    "version":  "1.2.36",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "eeca1ef1d10cfe98545161bc67c0c81945c38b79019b23a65ecf39f5a24bb5c6",
+    "size":  15342518,
+    "notes":  "사주 첫 아바타 영상 문장이 뒤 오디오 조각에 반복되지 않도록 분할 기준 수정"
 }
