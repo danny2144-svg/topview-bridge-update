@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.19",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/b465ef6db2775c145690f38afa20474e038f1b2a/TopViewBridge.exe",
-    "sha256":  "29ceea78627bbfac4d98a997c256d9b9d2cb66aa4caf09893b7297773821fd10",
-    "size":  15324691,
-    "notes":  "사주 첫 사진 영상 modeType 수정, 숨은 실패 표시, 사주 작업에 씨댄스 영상 추가 옵션"
+    "version":  "1.2.20",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "fd9bf66c62fc60e0421f69899a9c032dcfc704b105eaad2778c28ddfb37f22fb",
+    "size":  15333164,
+    "notes":  "세션 이름 간소화, 씨댄스 모델/비율/시간/해상도 선택, 작업별 크레딧 표시, 실패 작업 자동 재시도"
 }
