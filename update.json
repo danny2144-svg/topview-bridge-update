@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.29",
+    "version":  "1.2.30",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/52b8af6a7e8a0bd01461b7dd3b39500180e0dc88/TopViewBridge.exe",
-    "sha256":  "19a0ee81257f4c87fc0980d21e3fa3aec92b802e8bd6b26a4eda6dc52985da1f",
-    "size":  15335560,
-    "notes":  "사진 영상 안내 문구를 오른쪽 끝으로 이동하고 보이스/동영상 옵션 간격 개선"
+    "sha256":  "1af10f9d4c130e01fcf61de509d92f0fdcc2c7d12d75691b0fb198741b392b5b",
+    "size":  15336800,
+    "notes":  "새 작업 선택 시 이전 원고와 결과, 작업 ID가 남지 않도록 완전 초기화"
 }
