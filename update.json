@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.29",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/d04b09c83d1dfb476f07382a37908e6a4d830453/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/52b8af6a7e8a0bd01461b7dd3b39500180e0dc88/TopViewBridge.exe",
     "sha256":  "19a0ee81257f4c87fc0980d21e3fa3aec92b802e8bd6b26a4eda6dc52985da1f",
     "size":  15335560,
     "notes":  "사진 영상 안내 문구를 오른쪽 끝으로 이동하고 보이스/동영상 옵션 간격 개선"
