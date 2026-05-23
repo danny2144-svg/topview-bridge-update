@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.27",
+    "version":  "1.2.28",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/211dce527303f4569ba77387d9dd376416f01418/TopViewBridge.exe",
-    "sha256":  "77c1cd686e198a8bb6d825972a7c82ac3fec0fb5635dab919b18665797e95551",
-    "size":  15336068,
-    "notes":  "보이스와 동영상 모델 카드를 원고 작업 밖으로 빼서 작업 세션 아래에 배치"
+    "sha256":  "075682b30839a4d836392751f8526e98284a595d9f1b9872f20b6e98839f454a",
+    "size":  15335537,
+    "notes":  "보이스/동영상 모델 설정을 왼쪽 원고 칸 폭에 맞추고 결과 현황을 위로 확장"
 }
