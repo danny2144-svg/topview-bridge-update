@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.25",
+    "version":  "1.2.26",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/773cb31c14b5d9c2387875260224684f42c3e904/TopViewBridge.exe",
-    "sha256":  "4e340e1644a83f3d98131c2640f47b9f827ead176bea21ec1f66440faa0c8fb3",
-    "size":  15334865,
-    "notes":  "보이스와 동영상 모델 설정을 왼쪽 원고 영역에 촘촘하게 묶고, 결과 현황을 위로 올려 더 크게 표시"
+    "sha256":  "994ae5888d41c8327c884777386f1bea6be85ccab1bba87b6eec711a9a9e2927",
+    "size":  15336555,
+    "notes":  "보이스/아바타 카드와 동영상 모델 카드를 따로 분리하고, 원고/결과 칸 크기 조절 저장 추가"
 }
