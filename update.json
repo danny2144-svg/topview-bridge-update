@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.24",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/a5d044c00b163572d9a9d3394bcb7ea64ebff305/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/850bfea2bf1ed87f2f30ffd0fb492d13d296d209/TopViewBridge.exe",
     "sha256":  "9e385afb06e91970031f1a0ff802b732a34dfa178be2ff44d90b450fe1fbd69c",
     "size":  15336432,
     "notes":  "보이스와 동영상 모델 영역 분리, 사주가 아닐 때 동영상 영역 숨김, 결과 현황 작업 공간 확대"
