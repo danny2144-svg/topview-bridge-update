@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.33",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/f520b0c5b0c7572e695ab76c88b979cde269e7ad/TopViewBridge.exe",
     "sha256":  "6384d14b5c91d3573fc5df6093a6405e081422488e6ba0fb7678efad4902fd3d",
     "size":  15341065,
     "notes":  "상단의 헷갈리는 속도 저장 표시 제거"
