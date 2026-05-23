@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.22",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/b05437ca1c392b0b30d1806183f16205d5d32d2a/TopViewBridge.exe",
     "sha256":  "26213e7db7e33c9bc7a9369e021a581b0590951980e513454083a2fee682e026",
     "size":  15336228,
     "notes":  "동영상 모델명 SEEDENCE 표시, 옵션 배열 정렬, 결과 저장/복사 버튼 결과 현황 안쪽 배치"
