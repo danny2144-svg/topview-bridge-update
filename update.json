@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.21",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/5858da7927cd3292c10dd3a584711bf33b5e4246/TopViewBridge.exe",
     "sha256":  "132b9e07ec98a8559519c29d0e77811dbf8639531d99c67491873b6265db8e7a",
     "size":  15334732,
     "notes":  "씨댄스 모델명 간소화, 씨댄스 옵션 왼쪽 정렬, 결과 현황 상단 배치"
