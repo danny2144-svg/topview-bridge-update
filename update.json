@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.26",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/773cb31c14b5d9c2387875260224684f42c3e904/TopViewBridge.exe",
-    "sha256":  "994ae5888d41c8327c884777386f1bea6be85ccab1bba87b6eec711a9a9e2927",
-    "size":  15336555,
-    "notes":  "보이스/아바타 카드와 동영상 모델 카드를 따로 분리하고, 원고/결과 칸 크기 조절 저장 추가"
+    "version":  "1.2.27",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/9262ee39ccdd70f2ae16260d51a45edb0dd118a5/TopViewBridge.exe",
+    "sha256":  "77c1cd686e198a8bb6d825972a7c82ac3fec0fb5635dab919b18665797e95551",
+    "size":  15336068,
+    "notes":  "보이스와 동영상 모델 카드를 원고 작업 밖으로 빼서 작업 세션 아래에 배치"
 }
