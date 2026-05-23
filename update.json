@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.34",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/1c907fcbfb378f468d695ab76b0474efe0b6cdee/TopViewBridge.exe",
-    "sha256":  "a19e5763a61c3b147466231a6c9dfbe728a0ad5a6b30a92da330d4279bd83e6f",
-    "size":  15339530,
-    "notes":  "사주 방식에서 저장된 아바타 사진 ID만 있어도 첫 150자 영상, 이후 오디오로 정확히 전송"
+    "version":  "1.2.35",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "af008b02473b2f2e65fe582bec0954896ec90aa7a2625dae31084ee867699ae6",
+    "size":  15341549,
+    "notes":  "사주 첫 아바타 영상을 Photo Avatar API의 avatar4 모델로 고정하고 현재 세션 저장 강화"
 }
