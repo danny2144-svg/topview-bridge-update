@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.33",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/f520b0c5b0c7572e695ab76c88b979cde269e7ad/TopViewBridge.exe",
-    "sha256":  "6384d14b5c91d3573fc5df6093a6405e081422488e6ba0fb7678efad4902fd3d",
-    "size":  15341065,
-    "notes":  "상단의 헷갈리는 속도 저장 표시 제거"
+    "version":  "1.2.34",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "a19e5763a61c3b147466231a6c9dfbe728a0ad5a6b30a92da330d4279bd83e6f",
+    "size":  15339530,
+    "notes":  "사주 방식에서 저장된 아바타 사진 ID만 있어도 첫 150자 영상, 이후 오디오로 정확히 전송"
 }
