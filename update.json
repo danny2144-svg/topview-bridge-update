@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.31",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/c8d6b37795566acbf722449b85e836c5fee73744/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/db52b0d0fa738426462fd1385a437a5d825eb572/TopViewBridge.exe",
     "sha256":  "e94436de6a746e18f1e03b733ac310066ddcd5e4630ac52a987efec51c2fb342",
     "size":  15336941,
     "notes":  "새 작업이 저장된 새 작업 세션으로 넘어가지 않도록 세션 선택 동작 수정"
