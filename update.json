@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.32",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/5396370c91bf6e54e84205c2613ee9bdfa701d37/TopViewBridge.exe",
     "sha256":  "085aac98c9cafec95f61fbfc3c4d9b15e63535c161d1cdbac149e0bb4f474275",
     "size":  15339382,
     "notes":  "결과 현황에 총 사용 크레딧과 진행률 표시, 파일 저장 버튼 동작 개선, 동영상 저장 시 사진 파일 제외"
