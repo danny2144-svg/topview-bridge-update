@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.20",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/c05f931a3dc23ff17f18ff24b89820573aae58cd/TopViewBridge.exe",
-    "sha256":  "fd9bf66c62fc60e0421f69899a9c032dcfc704b105eaad2778c28ddfb37f22fb",
-    "size":  15333164,
-    "notes":  "세션 이름 간소화, 씨댄스 모델/비율/시간/해상도 선택, 작업별 크레딧 표시, 실패 작업 자동 재시도"
+    "version":  "1.2.21",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "132b9e07ec98a8559519c29d0e77811dbf8639531d99c67491873b6265db8e7a",
+    "size":  15334732,
+    "notes":  "씨댄스 모델명 간소화, 씨댄스 옵션 왼쪽 정렬, 결과 현황 상단 배치"
 }
