@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.27",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/9262ee39ccdd70f2ae16260d51a45edb0dd118a5/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/211dce527303f4569ba77387d9dd376416f01418/TopViewBridge.exe",
     "sha256":  "77c1cd686e198a8bb6d825972a7c82ac3fec0fb5635dab919b18665797e95551",
     "size":  15336068,
     "notes":  "보이스와 동영상 모델 카드를 원고 작업 밖으로 빼서 작업 세션 아래에 배치"
