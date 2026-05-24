@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.37",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/dd0efb2cd17a2ccb37fcb0fe529f9b15ff6625ea/TopViewBridge.exe",
-    "sha256":  "903a5890f689aa4afec30a0290cb602eb4bf3646cfae8f4014a8bcda1bca1762",
-    "size":  15344660,
-    "notes":  "완성 파일 저장 시 브루용 전체 음성과 대본 TXT를 자동 생성하고 초안 SRT는 만들지 않도록 수정"
+    "version":  "1.2.38",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "b428f92994f5f9d4084aa246a0bdc87fd1a4360b693e033dfc0f3c75b67e6135",
+    "size":  15441130,
+    "notes":  "브루 없이도 완성 파일 저장 시 조각별 음성 길이를 기준으로 자동자막 SRT를 직접 생성하도록 수정"
 }
