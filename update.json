@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.46",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/7c449557de1587b17f0970b95139db58c08567cf/TopViewBridge.exe",
-    "sha256":  "87bb1c9719aa0d7927710cbff163ebf2955b078cbcf13aa9f17bd3326d80e1bd",
-    "size":  15453510,
-    "notes":  "전체음성은 정밀 WAV 하나만 저장하고, SRT는 정확한 조각 경계와 무음 분석 기준으로 생성하며 짧은 자막 꼬리를 재분배"
+    "version":  "1.2.47",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "3176198f718b0cd3367d84307a512b351937ab5c9d6718f0b4be4687b0d3aab3",
+    "size":  15457828,
+    "notes":  "2시간 긴 원고도 조각 경계 기준으로 누적 밀림을 막고, 17자 자막은 짧은 꼬리와 단어 중간 절단을 더 줄였습니다."
 }
