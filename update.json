@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.45",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/9ae47054d38a0f97d2482ee83eb2ea62bcd22335/TopViewBridge.exe",
     "sha256":  "9d057da772851881d7c90e5c836c6bbd52ad14139935574087d74646363e7c65",
     "size":  15453360,
     "notes":  "자동자막 SRT를 최종 전체음성 WAV 기준으로 생성해 뒤로 갈수록 밀리는 누적 싱크 문제를 줄임"
