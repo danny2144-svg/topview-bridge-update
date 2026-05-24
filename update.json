@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.38",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/9c156d5ee2a0c1863249fc0e05c5d8017dbba9f8/TopViewBridge.exe",
     "sha256":  "b428f92994f5f9d4084aa246a0bdc87fd1a4360b693e033dfc0f3c75b67e6135",
     "size":  15441130,
     "notes":  "브루 없이도 완성 파일 저장 시 조각별 음성 길이를 기준으로 자동자막 SRT를 직접 생성하도록 수정"
