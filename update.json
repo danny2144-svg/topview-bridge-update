@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.42",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/9007ed955e50df2b7257becf310b32defaa4d303/TopViewBridge.exe",
     "sha256":  "ce92c9b5b6f76fd880fb7de76964151a6a8a56086ebaa20f4ad801ae1c725a0a",
     "size":  15445321,
     "notes":  "브루용 저장 시 첫 아바타 영상 음성까지 포함하고, 전체 음성 MP3와 자동자막 SRT 싱크 계산을 개선"
