@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.37",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/dd0efb2cd17a2ccb37fcb0fe529f9b15ff6625ea/TopViewBridge.exe",
     "sha256":  "903a5890f689aa4afec30a0290cb602eb4bf3646cfae8f4014a8bcda1bca1762",
     "size":  15344660,
     "notes":  "완성 파일 저장 시 브루용 전체 음성과 대본 TXT를 자동 생성하고 초안 SRT는 만들지 않도록 수정"
