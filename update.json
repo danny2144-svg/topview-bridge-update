@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.43",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/317503fb58e1997b762ad2640470446ef89daab7/TopViewBridge.exe",
     "sha256":  "df11c4a41a50de5ae2cde0ae4a8ee878d0d78fdb51ddbd2cdebdce95a74da3c3",
     "size":  15445185,
     "notes":  "브루용 대본과 자동자막 SRT를 만들 때 문장부호 뒤 띄어쓰기를 자동 정리"
