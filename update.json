@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.40",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/d4fb3d99986e63c81ee551e3fd1fa46754dbb8da/TopViewBridge.exe",
-    "sha256":  "ec19f6871fcd01868042731d8208f904e86c4c574ecbe03225c89642a1508861",
-    "size":  15441968,
-    "notes":  "다른 PC에서 실행 중 오류가 나도 그냥 꺼지지 않고 오류 파일을 남기며, 자동업데이트 실패 시 기존 파일을 다시 켜도록 수정"
+    "version":  "1.2.42",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "ce92c9b5b6f76fd880fb7de76964151a6a8a56086ebaa20f4ad801ae1c725a0a",
+    "size":  15445321,
+    "notes":  "브루용 저장 시 첫 아바타 영상 음성까지 포함하고, 전체 음성 MP3와 자동자막 SRT 싱크 계산을 개선"
 }
