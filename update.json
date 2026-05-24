@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.44",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/17153080091ec4768471b87458585a7c74de8360/TopViewBridge.exe",
     "sha256":  "ca2f68ef87fd06281845d9fe52b1a2ead8b38221f8d3a01a68994993d5e87584",
     "size":  15451115,
     "notes":  "전송 확인창을 앱 디자인으로 바꾸고, 자동자막 SRT를 음성 무음 구간 분석 기준으로 더 정확하게 생성"
