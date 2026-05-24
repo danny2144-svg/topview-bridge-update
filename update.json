@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.36",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/e6844f9d1320edca8be30591bcb8b2584f7a031b/TopViewBridge.exe",
-    "sha256":  "eeca1ef1d10cfe98545161bc67c0c81945c38b79019b23a65ecf39f5a24bb5c6",
-    "size":  15342518,
-    "notes":  "사주 첫 아바타 영상 문장이 뒤 오디오 조각에 반복되지 않도록 분할 기준 수정"
+    "version":  "1.2.37",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "sha256":  "903a5890f689aa4afec30a0290cb602eb4bf3646cfae8f4014a8bcda1bca1762",
+    "size":  15344660,
+    "notes":  "완성 파일 저장 시 브루용 전체 음성과 대본 TXT를 자동 생성하고 초안 SRT는 만들지 않도록 수정"
 }
