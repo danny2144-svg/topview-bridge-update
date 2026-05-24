@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.2.39",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/dfa9bee379b603b53e7ab0c5d913965d42e56965/TopViewBridge.exe",
     "sha256":  "4e257287a48874c29017bbb09c3f7b830652477b16df749db3df2defd4094f3f",
     "size":  15442368,
     "notes":  "계정 연결창을 더 크게 열고, 병합음성 없이 대본 TXT와 17자 기준 자동자막 SRT만 저장하도록 수정"
