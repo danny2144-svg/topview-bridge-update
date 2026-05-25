@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.48",
+    "version":  "0.0.0",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "c014a65784398c2e5b39cf4b3752370169c8a84ed280ac57e28a57ef28b82c18",
-    "size":  15460091,
-    "notes":  "동영상 모델 선택 오류를 고치고, Seedance 풀네임/예상 크레딧/대기중 상태 표시를 정리했으며 SRT 끝점 싱크를 밀리초 단위까지 맞췄습니다."
+    "sha256":  "8eef1a54e9130a273bff0b4beae1d927b15fa0ca03fa6ced30571695091c8184",
+    "size":  15461097,
+    "notes":  "구버전 자동업데이트 교체 실패를 막기 위해 자동업데이트를 임시 중지했습니다. 새 파일을 한 번 수동 배포하면 이후 버전부터 안정 업데이트됩니다."
 }
