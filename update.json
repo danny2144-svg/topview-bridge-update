@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.47",
+    "version":  "1.2.48",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "3176198f718b0cd3367d84307a512b351937ab5c9d6718f0b4be4687b0d3aab3",
-    "size":  15457828,
-    "notes":  "2시간 긴 원고도 조각 경계 기준으로 누적 밀림을 막고, 17자 자막은 짧은 꼬리와 단어 중간 절단을 더 줄였습니다."
+    "sha256":  "c014a65784398c2e5b39cf4b3752370169c8a84ed280ac57e28a57ef28b82c18",
+    "size":  15460091,
+    "notes":  "동영상 모델 선택 오류를 고치고, Seedance 풀네임/예상 크레딧/대기중 상태 표시를 정리했으며 SRT 끝점 싱크를 밀리초 단위까지 맞췄습니다."
 }
