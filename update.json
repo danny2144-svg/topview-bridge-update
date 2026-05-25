@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.51",
+    "version":  "1.2.52",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "7aeb68bcb04c51cfb63a6919c35937af625293a2c0eb8a513d14cedd6e806dae",
-    "size":  15464376,
-    "notes":  "SRT 끝 누락 보강, 결과 확인 URL 보존, 저장 메타데이터 복구, 자동업데이트 재활성화 버전입니다."
+    "sha256":  "57fbdc7464941c3f66ac99708d5665db9893ca750afc574041ebe77748c535c8",
+    "size":  15464689,
+    "notes":  "SRT 자막 사이 빈틈 0 보정, 3단계 무음 분석, 쉼 가운데 자막 경계 보정 버전입니다."
 }
