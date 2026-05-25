@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.0.0",
+    "version":  "1.2.51",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "8eef1a54e9130a273bff0b4beae1d927b15fa0ca03fa6ced30571695091c8184",
-    "size":  15461097,
-    "notes":  "구버전 자동업데이트 교체 실패를 막기 위해 자동업데이트를 임시 중지했습니다. 새 파일을 한 번 수동 배포하면 이후 버전부터 안정 업데이트됩니다."
+    "sha256":  "7aeb68bcb04c51cfb63a6919c35937af625293a2c0eb8a513d14cedd6e806dae",
+    "size":  15464376,
+    "notes":  "SRT 끝 누락 보강, 결과 확인 URL 보존, 저장 메타데이터 복구, 자동업데이트 재활성화 버전입니다."
 }
