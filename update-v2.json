@@ -1,7 +1,13 @@
-﻿{
-    "version":  "1.2.69",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "0017a6515f4aa281116d07b3927eca3c0b96323ef8120474019932ea8dc51090",
-    "size":  99268760,
-    "notes":  "타로 방식에서 성불하세요 자, 이번 고르신 분들 / 자, 삼번 고르신 분들처럼 진행 멘트 뒤에 붙는 선택지 시작을 정확히 새 번호로 분리합니다. 1번 안에 2번·3번이 섞이지 않도록 실제 사례 테스트를 추가했습니다."
+{
+    "version": "1.2.70",
+    "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
+    "urls": [
+        "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
+        "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+        "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
+        "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
+    ],
+    "sha256": "5d168b6c8e296523d54b3a42a3d428105f18af4d4396920610b075103d474ba1",
+    "size": 99269337,
+    "notes": "자동 업데이트 다운로드를 더 안정적으로 바꿨습니다. 기본 주소는 exe 차단을 피하기 위해 bin 파일로 받고, 새 버전부터는 예비 주소를 순서대로 다시 시도합니다. 실패하면 바탕화면에 업데이트 오류 기록을 남깁니다."
 }
