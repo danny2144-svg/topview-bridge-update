@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.53",
+    "version":  "1.2.54",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "f9ece7ce216f3e0188a3cbc596a4c7c1b4cd909c325c29c07721f68a68f736dd",
-    "size":  15467260,
-    "notes":  "오디오를 SRT 자막 단위로 전송하고 각 줄의 실제 음성 길이로 SRT 시간을 만드는 정밀 싱크 버전입니다."
+    "sha256":  "ebeb5f107533c0f9397e20213816626c1cf33ab61b0a8fb4fcb62c24630f5987",
+    "size":  15469882,
+    "notes":  "700자 전송 유지, 비용 폭증 방식 제거, 700자 내부 SRT 경계 최적화 버전입니다."
 }
