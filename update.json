@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.58",
+    "version":  "1.2.59",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "0216be6eb8727915eeacb67a98442c3c39568adf320d24b047486f8871db209d",
-    "size":  99257733,
-    "notes":  "자막 싱크 최고품질 모드를 추가했습니다. 700자 TopView 전송은 유지하고, SRT 생성 시 음성 인식 타임스탬프로 각 조각을 다시 맞춰 긴 영상의 누적 밀림을 줄입니다."
+    "sha256":  "b5494b0883626fbbf2a9c47a067fc0b4f364adc0a0418c6bd1d18bc29dda5eeb",
+    "size":  99259405,
+    "notes":  "저장 파일명을 보기 좋게 정리했습니다. 기본 방식은 음성 1, 음성 2로 저장하고, 사주는 아바타동영상 1 뒤에 사주 1부터 저장합니다. 저장 시 전체 음성/자동자막 만들기 체크를 추가했고 기본 켜짐입니다."
 }
