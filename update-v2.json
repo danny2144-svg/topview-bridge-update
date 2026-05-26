@@ -1,5 +1,5 @@
 {
-    "version": "1.2.73",
+    "version": "1.2.74",
     "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls": [
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
         "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
     ],
-    "sha256": "f001690a693e16c8e14f025f7641112871ed616807f136ec77bc645b5c14e3f0",
-    "size": 99274746,
-    "notes": "TopView 작업이 모두 끝나면 전체 음성/자동자막을 미리 준비하고, 저장 버튼은 준비된 파일을 바로 저장하게 바꿨습니다. 전체 음성과 자동자막은 따로 선택할 수 있고 기본/사주/타로 방식 모두에 적용됩니다."
+    "sha256": "57ba2db05c9c6fb201a56d19913a3e1ae0b7a3caff6f1650bcdf5d76e413e451",
+    "size": 99275883,
+    "notes": "전체 음성 준비와 자동자막 준비 옵션을 체크박스 대신 깔끔한 선택 버튼으로 바꿨습니다. TopView 완료 후 자동으로 전체 음성/자막을 준비하고, 타로 구간별 전체 음성도 함께 만듭니다."
 }
