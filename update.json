@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.60",
+    "version":  "1.2.61",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "17b6fabf29402fd42a0dd374b01415750b0c48ef3427f21553646ad17eb0a13f",
-    "size":  99260861,
-    "notes":  "업데이트 적용 중 꺼졌다가 반복되는 문제를 줄였습니다. 업데이트 때 현재 창을 확실히 종료한 뒤 교체하고, 원본 파일이 잠겨 있으면 새 버전을 안전 폴더에서 바로 열도록 보강했습니다."
+    "sha256":  "fe686191b4f1ff43e29f379274132c0b5ea3fdda2ef49b5c471de1611c313717",
+    "size":  99259839,
+    "notes":  "업데이트 적용 반복 문제를 보강했고, 전체 음성을 만들 때 아바타 영상의 실제 소리를 앞에 붙인 뒤 저장된 아바타 영상 자체의 소리는 제거해 편집기에서 소리가 겹치지 않게 했습니다."
 }
