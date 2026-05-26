@@ -1,5 +1,5 @@
 {
-    "version": "1.2.76",
+    "version": "1.2.77",
     "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls": [
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
         "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
     ],
-    "sha256": "f9c846a2a773949bdbb1c12abb453a3525098eeb3ee7a7ad39b177b78397761e",
-    "size": 99278600,
-    "notes": "업데이트가 있으면 먼저 물어보고, 나중에를 누르면 현재 실행에서는 업데이트하지 않습니다. 다음 실행 때는 다시 물어봅니다. 업데이트 교체가 실패해도 기존 프로그램을 다시 열도록 보강했고, 전체 음성 기준으로 오프닝/1번/2번 구간 라벨 SRT와 구간표 TXT를 함께 만듭니다."
+    "sha256": "3c0bc676035002b8c3440edc849dbb21982cb1fb11241c2dd670b3fcef214e98",
+    "size": 99279262,
+    "notes": "업데이트 교체 중 원래 실행파일이 잠겨도 꺼진 채로 끝나지 않게 보강했습니다. 교체가 안 되면 TopViewBridge_최신.exe를 바로 실행하고, 실행 후 원래 파일 교체를 다시 시도합니다. 업데이트 여부는 먼저 물어보고, 나중에를 누르면 현재 실행에서는 업데이트하지 않습니다."
 }
