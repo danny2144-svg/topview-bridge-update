@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.0.0",
+    "version":  "1.2.64",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "942df3a8719236da6d74ed268b3775967578628c270b6a1f56cd1c8cdc466e38",
-    "size":  99259404,
-    "notes":  "자동 업데이트 반복 종료를 막기 위해 현재 자동 업데이트 신호를 잠시 꺼두었습니다. 최신 파일은 전송용 ZIP으로 직접 받아 실행해주세요."
+    "sha256":  "732d4bed667f9a0f14880925a6c8c4d8f8583602371e6fbdfd6fea79f11589e6",
+    "size":  99261850,
+    "notes":  "자동 업데이트 방식을 바꿨습니다. 실행 중인 파일을 직접 덮어쓰지 않고 새 버전을 안전 폴더에서 먼저 실행한 뒤 기존 실행파일을 교체해, 업데이트 중 꺼짐 반복을 막습니다."
 }
