@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.59",
+    "version":  "1.2.60",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "b5494b0883626fbbf2a9c47a067fc0b4f364adc0a0418c6bd1d18bc29dda5eeb",
-    "size":  99259405,
-    "notes":  "저장 파일명을 보기 좋게 정리했습니다. 기본 방식은 음성 1, 음성 2로 저장하고, 사주는 아바타동영상 1 뒤에 사주 1부터 저장합니다. 저장 시 전체 음성/자동자막 만들기 체크를 추가했고 기본 켜짐입니다."
+    "sha256":  "17b6fabf29402fd42a0dd374b01415750b0c48ef3427f21553646ad17eb0a13f",
+    "size":  99260861,
+    "notes":  "업데이트 적용 중 꺼졌다가 반복되는 문제를 줄였습니다. 업데이트 때 현재 창을 확실히 종료한 뒤 교체하고, 원본 파일이 잠겨 있으면 새 버전을 안전 폴더에서 바로 열도록 보강했습니다."
 }
