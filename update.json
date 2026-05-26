@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.63",
+    "version":  "0.0.0",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
     "sha256":  "942df3a8719236da6d74ed268b3775967578628c270b6a1f56cd1c8cdc466e38",
     "size":  99259404,
-    "notes":  "타로 방식에서 일번, 이번, 삼번, 사번 선택지 분리가 더 잘 되도록 보강했습니다. 구분선이 없고 문장 뒤에 바로 다음 선택지가 이어지는 원고와, 줄에 일번/이번/3번/4번만 적힌 원고도 분리합니다."
+    "notes":  "자동 업데이트 반복 종료를 막기 위해 현재 자동 업데이트 신호를 잠시 꺼두었습니다. 최신 파일은 전송용 ZIP으로 직접 받아 실행해주세요."
 }
