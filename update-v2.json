@@ -1,5 +1,5 @@
 {
-    "version": "1.2.71",
+    "version": "1.2.72",
     "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls": [
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
         "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
     ],
-    "sha256": "7b31b9c17733e2f8a5fe07e9ea4f10f1e6f4a585256a279a57e4cae7b041797b",
-    "size": 99270939,
-    "notes": "자동 업데이트 다운로드를 안정화하고, 저장 옵션에서 전체 음성과 자동자막을 따로 선택할 수 있게 했습니다. 자동자막 만들기는 기본/사주/타로 방식 모두에 적용됩니다."
+    "sha256": "fa0639b7a2ed0ac4f105f3f1c2d032399323a2c942b1689c4c751a0cce2bb48a",
+    "size": 99271214,
+    "notes": "자동 업데이트가 교체 후 반복 종료되지 않도록 보조 실행파일을 복사 후 바로 종료하게 고쳤습니다. 저장 옵션에서 전체 음성과 자동자막을 따로 선택할 수 있고, 자동자막 만들기는 기본/사주/타로 방식 모두에 적용됩니다."
 }
