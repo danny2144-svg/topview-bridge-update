@@ -1,5 +1,5 @@
 {
-    "version": "1.2.74",
+    "version": "1.2.76",
     "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls": [
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
         "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
     ],
-    "sha256": "57ba2db05c9c6fb201a56d19913a3e1ae0b7a3caff6f1650bcdf5d76e413e451",
-    "size": 99275883,
-    "notes": "전체 음성 준비와 자동자막 준비 옵션을 체크박스 대신 깔끔한 선택 버튼으로 바꿨습니다. TopView 완료 후 자동으로 전체 음성/자막을 준비하고, 타로 구간별 전체 음성도 함께 만듭니다."
+    "sha256": "f9c846a2a773949bdbb1c12abb453a3525098eeb3ee7a7ad39b177b78397761e",
+    "size": 99278600,
+    "notes": "업데이트가 있으면 먼저 물어보고, 나중에를 누르면 현재 실행에서는 업데이트하지 않습니다. 다음 실행 때는 다시 물어봅니다. 업데이트 교체가 실패해도 기존 프로그램을 다시 열도록 보강했고, 전체 음성 기준으로 오프닝/1번/2번 구간 라벨 SRT와 구간표 TXT를 함께 만듭니다."
 }
