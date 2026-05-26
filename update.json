@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.54",
+    "version":  "1.2.55",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "ebeb5f107533c0f9397e20213816626c1cf33ab61b0a8fb4fcb62c24630f5987",
-    "size":  15469882,
-    "notes":  "700자 전송 유지, 비용 폭증 방식 제거, 700자 내부 SRT 경계 최적화 버전입니다."
+    "sha256":  "bb238c3c187a420731edf677457245fbdc75b89a23afb83c24a42fd8b037fc19",
+    "size":  15468824,
+    "notes":  "Python DLL 임시폴더 오류를 줄이기 위해 실행 파일 압축 방식을 보수적으로 변경한 버전입니다. TopView 전송은 700자 기준을 유지합니다."
 }
