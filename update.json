@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.56",
+    "version":  "1.2.57",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "934f541248575d4a5d22409deca4fafd0293fce826df21073c19b9db140df14a",
-    "size":  15471528,
-    "notes":  "SRT 싱크를 실제 말소리 구간 기준으로 재계산해 후반 밀림을 줄인 버전입니다. TopView 전송은 700자 기준을 유지합니다."
+    "sha256":  "aa27c1e3dbc389df5f9da13267735f5deab7330ec0281144024a0b9bba5c7759",
+    "size":  15475545,
+    "notes":  "말소리 덩어리와 대본 구간을 먼저 맞춘 뒤 자막을 나누어 문장별 체감 싱크를 개선한 버전입니다. TopView 전송은 700자 기준을 유지합니다."
 }
