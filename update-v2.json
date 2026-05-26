@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.66",
+    "version":  "1.2.67",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-    "sha256":  "00380ec8a9723d0e926d23ab5749ebbf4533eda28efbbb0f2a347f066c4c0a78",
-    "size":  99266911,
-    "notes":  "다른 PC에서도 전체 음성 WAV와 자동자막 SRT가 끝까지 저장되도록 내장 미디어 변환을 추가했습니다. 외부 변환기가 없거나 실패해도 내부 엔진으로 다시 만들고, SRT 마지막 길이를 전체 음성 기준으로 보정합니다."
+    "sha256":  "3799337f3b72912593d68ddf63dc07eeac0088e5be6ce553b2c605fcfece5d67",
+    "size":  99266591,
+    "notes":  "다른 PC에서도 전체 음성 WAV와 자동자막 SRT가 끝까지 저장되도록 내장 미디어 변환을 추가했습니다. 외부 변환기가 없거나 실패해도 내부 엔진으로 다시 만들고, 자동업데이트 교체 재시도도 안정화했습니다."
 }
