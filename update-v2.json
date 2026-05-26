@@ -1,5 +1,5 @@
 {
-    "version": "1.2.77",
+    "version": "1.2.78",
     "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls": [
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
         "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
     ],
-    "sha256": "3c0bc676035002b8c3440edc849dbb21982cb1fb11241c2dd670b3fcef214e98",
-    "size": 99279262,
-    "notes": "업데이트 교체 중 원래 실행파일이 잠겨도 꺼진 채로 끝나지 않게 보강했습니다. 교체가 안 되면 TopViewBridge_최신.exe를 바로 실행하고, 실행 후 원래 파일 교체를 다시 시도합니다. 업데이트 여부는 먼저 물어보고, 나중에를 누르면 현재 실행에서는 업데이트하지 않습니다."
+    "sha256": "07afed1fcb694bfa7e5e8fa06276d050e21cf93c30433744115b675b5c87abf0",
+    "size": 99280081,
+    "notes": "업데이트 교체 중 원래 실행파일이 잠겨도 빠르게 TopViewBridge_최신.exe를 실행해서 꺼진 상태로 끝나지 않게 했습니다. 실행 후 원래 파일 교체를 다시 시도하고, 업데이트 여부는 먼저 물어봅니다."
 }
