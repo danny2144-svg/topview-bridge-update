@@ -1,11 +1,11 @@
 {
-  "version": "1.2.84",
+  "version": "1.2.85",
   "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
   "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
-  "sha256": "fae0fd51038f019d554d762bed58f335567e1ea942f241531597111591530577",
+  "sha256": "1cc74c4a0a9e213c86f48a872e3276c9f8aa96b79bbdb939504b4f558277f709",
   "size": 1100000,
   "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-  "payload_sha256": "85306903e08a816d2acf7ac3ac2ac999fd3c4fb3a4d0565aa14de7dd648fa592",
-  "payload_size": 99283839,
-  "notes": "업데이트 전용 실행기로 교체해 업데이트 중 꺼진 뒤 다시 켜지지 않는 문제를 줄였습니다. 새로 켜진 화면 상단에는 업데이트 완료와 현재 버전이 표시됩니다."
+  "payload_sha256": "71e73009fdffc1a96c58cbc1cd8d38eb470cf0ca33ceb998290c11dbe9c74d23",
+  "payload_size": 99285376,
+  "notes": "씨댄스 동영상 프롬프트가 조각마다 다른 장면, 시간대, 구도, 움직임, 색감, 카메라 연출을 쓰도록 다양화했습니다."
 }
