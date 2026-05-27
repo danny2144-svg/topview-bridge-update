@@ -1,5 +1,5 @@
 {
-    "version": "1.2.78",
+    "version": "1.2.79",
     "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls": [
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
         "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
     ],
-    "sha256": "07afed1fcb694bfa7e5e8fa06276d050e21cf93c30433744115b675b5c87abf0",
-    "size": 99280081,
-    "notes": "업데이트 교체 중 원래 실행파일이 잠겨도 빠르게 TopViewBridge_최신.exe를 실행해서 꺼진 상태로 끝나지 않게 했습니다. 실행 후 원래 파일 교체를 다시 시도하고, 업데이트 여부는 먼저 물어봅니다."
+    "sha256": "85a29bdc7a52a6df8b1d43bca01717de896188449473f7eb085892e7df0197d5",
+    "size": 99281638,
+    "notes": "타로 저장 파일 정렬을 전체 원고 순서 기준으로 고쳐 전체 음성 순서와 구간표가 섞이지 않게 했습니다. 구간표는 시작/끝/길이 표로 만들고, 구간 라벨 SRT는 각 구간 시작점에 짧게 표시됩니다."
 }
