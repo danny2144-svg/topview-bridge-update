@@ -1,13 +1,13 @@
-{
-    "version": "1.2.80",
-    "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-    "urls": [
-        "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-        "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-        "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
-        "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
-    ],
-    "sha256": "4ad65e9cb146275ea9da9e52747b143f9eb2f3f0144c29081bb78077d2e598be",
-    "size": 99281424,
-    "notes": "전체 음성 구간표를 추정 시간이 아니라 실제 병합 WAV 프레임 기준으로 계산하게 고쳤습니다. 전체 음성 병합도 샘플 정확 WAV 병합으로 바꿔 구간 시작/끝 시간이 더 정확해집니다."
+﻿{
+    "version":  "1.2.81",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
+    "urls":  [
+                 "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
+                 "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
+                 "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
+                 "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
+             ],
+    "sha256":  "3a3add4d5a935e9a043c70a789b9699077832ffc5169570c1ff4ee39c623c2c7",
+    "size":  99282612,
+    "notes":  "최고품질 자동자막을 최종 저장되는 전체 음성.wav 기준으로 맞추도록 고쳤습니다. 전체 음성과 SRT가 같은 시간축을 쓰고, 한글 단어 시간표가 자막 시작 시간에 반영됩니다."
 }
