@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.2.82",
+    "version":  "1.2.83",
     "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls":  [
                  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
                  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
                  "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
              ],
-    "sha256":  "d4b023f4eff3546a73aaeadba0dedd4bae6c3d92f81361e32d63e2bebf570737",
-    "size":  99281754,
-    "notes":  "타로 전체 음성 편집용으로 편집용_구간표시.srt를 만들도록 개선했습니다. 캡컷에서 전체 음성 위에 올리면 오프닝 시작, 1번 카드 시작, 2번 카드 시작처럼 구간을 바로 볼 수 있습니다."
+    "sha256":  "3d9eed27684a36ca131ca7a97b4cd1097071c20104a0c3ebfcd338e00d2ea101",
+    "size":  99282744,
+    "notes":  "앱 맨 위 제목 옆과 창 제목에 현재 버전을 표시하도록 개선했습니다. 배포 파일과 업데이트 정보도 1.2.83으로 정리했습니다."
 }
