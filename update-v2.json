@@ -1,13 +1,11 @@
-﻿{
-    "version":  "1.2.83",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-    "urls":  [
-                 "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-                 "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.exe",
-                 "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
-                 "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
-             ],
-    "sha256":  "3d9eed27684a36ca131ca7a97b4cd1097071c20104a0c3ebfcd338e00d2ea101",
-    "size":  99282744,
-    "notes":  "앱 맨 위 제목 옆과 창 제목에 현재 버전을 표시하도록 개선했습니다. 배포 파일과 업데이트 정보도 1.2.83으로 정리했습니다."
+{
+  "version": "1.2.84",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
+  "sha256": "fae0fd51038f019d554d762bed58f335567e1ea942f241531597111591530577",
+  "size": 1100000,
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
+  "payload_sha256": "85306903e08a816d2acf7ac3ac2ac999fd3c4fb3a4d0565aa14de7dd648fa592",
+  "payload_size": 99283839,
+  "notes": "업데이트 전용 실행기로 교체해 업데이트 중 꺼진 뒤 다시 켜지지 않는 문제를 줄였습니다. 새로 켜진 화면 상단에는 업데이트 완료와 현재 버전이 표시됩니다."
 }
