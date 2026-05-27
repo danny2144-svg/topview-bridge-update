@@ -1,5 +1,5 @@
 {
-    "version": "1.2.79",
+    "version": "1.2.80",
     "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
     "urls": [
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/refs/heads/main/TopViewBridge.exe",
         "https://github.com/danny2144-svg/topview-bridge-update/raw/main/TopViewBridge.exe"
     ],
-    "sha256": "85a29bdc7a52a6df8b1d43bca01717de896188449473f7eb085892e7df0197d5",
-    "size": 99281638,
-    "notes": "타로 저장 파일 정렬을 전체 원고 순서 기준으로 고쳐 전체 음성 순서와 구간표가 섞이지 않게 했습니다. 구간표는 시작/끝/길이 표로 만들고, 구간 라벨 SRT는 각 구간 시작점에 짧게 표시됩니다."
+    "sha256": "4ad65e9cb146275ea9da9e52747b143f9eb2f3f0144c29081bb78077d2e598be",
+    "size": 99281424,
+    "notes": "전체 음성 구간표를 추정 시간이 아니라 실제 병합 WAV 프레임 기준으로 계산하게 고쳤습니다. 전체 음성 병합도 샘플 정확 WAV 병합으로 바꿔 구간 시작/끝 시간이 더 정확해집니다."
 }
