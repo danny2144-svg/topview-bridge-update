@@ -1,11 +1,11 @@
 {
-  "version": "1.2.86",
+  "version": "1.2.87",
   "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
   "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
-  "sha256": "b19dec4fb1d7044a0429950191423e83d9f4a76fe558bc48a0f8a735678affb9",
+  "sha256": "fc857bda11775b3b95370f3553e512430910a5c99bca2480f4cffaaa1437574",
   "size": 1100000,
   "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-  "payload_sha256": "80c66d20606079be5b584516214e1c071e85dfee9a8e9f7314091301a7cbd1de",
-  "payload_size": 99282902,
-  "notes": "씨댄스 동영상 프롬프트가 대본의 띠 동물을 반드시 중심에 보이게 하면서 장면 연출은 다양하게 만들도록 개선했습니다."
+  "payload_sha256": "e65883dce3e86e552fe1bc1eca93f179e9c1cc8f7b0667f3664ab0b146226f77",
+  "payload_size": 99293426,
+  "notes": "분할 전 비용 0원 미리보기, 씨댄스 프롬프트 수정 전송, 자동 재시도 표시, 자막 품질 리포트, 연결/오류 안내를 개선했습니다."
 }
