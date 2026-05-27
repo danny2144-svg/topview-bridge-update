@@ -1,11 +1,11 @@
 {
-  "version": "1.2.87",
+  "version": "1.2.88",
   "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
   "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
-  "sha256": "25e03c1204a6a00078d1df5a2a7baca024d72138c82bb2c49d5aa0cd89cee641",
+  "sha256": "cd6db8f10ed484d02308e566ee8a81070c1cfffb78e73f17975ce337fc25ebd3",
   "size": 1100000,
   "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-  "payload_sha256": "f5dd08dad0c5560b4a40324c413eecd47a7d0691eae4120ee9a3e038731bfa0e",
-  "payload_size": 99290735,
-  "notes": "분할 전 비용 0원 미리보기, 씨댄스 프롬프트 수정 전송, 자동 재시도 표시, 자막 품질 리포트, 연결/오류 안내를 개선했습니다."
+  "payload_sha256": "da784cbb051e8ae633eb0f61044a73f4e8704feb74867f29298185a96f3a6c66",
+  "payload_size": 99293810,
+  "notes": "타로 분리 재확인 오류를 고치고, 업데이트 확인을 캐시 없이 새로 받도록 보강했습니다. 전송 전 미리보기, 자막 품질 리포트, 오류 안내도 함께 유지됩니다."
 }
