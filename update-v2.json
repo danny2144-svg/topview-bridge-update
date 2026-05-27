@@ -2,10 +2,10 @@
   "version": "1.2.87",
   "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
   "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
-  "sha256": "fc857bda11775b3b95370f3553e512430910a5c99bca2480f4cffaada1437574",
+  "sha256": "25e03c1204a6a00078d1df5a2a7baca024d72138c82bb2c49d5aa0cd89cee641",
   "size": 1100000,
   "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-  "payload_sha256": "e65883dce3e86e552fe1bc1eca93f179e9c1cc8f7b0667f3664ab0b146226f77",
-  "payload_size": 99293426,
+  "payload_sha256": "f5dd08dad0c5560b4a40324c413eecd47a7d0691eae4120ee9a3e038731bfa0e",
+  "payload_size": 99290735,
   "notes": "분할 전 비용 0원 미리보기, 씨댄스 프롬프트 수정 전송, 자동 재시도 표시, 자막 품질 리포트, 연결/오류 안내를 개선했습니다."
 }
