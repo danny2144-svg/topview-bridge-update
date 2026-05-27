@@ -1,11 +1,11 @@
 {
-  "version": "1.2.85",
+  "version": "1.2.86",
   "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
   "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater.exe",
-  "sha256": "1cc74c4a0a9e213c86f48a872e3276c9f8aa96b79bbdb939504b4f558277f709",
+  "sha256": "b19dec4fb1d7044a0429950191423e83d9f4a76fe558bc48a0f8a735678affb9",
   "size": 1100000,
   "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge.bin",
-  "payload_sha256": "71e73009fdffc1a96c58cbc1cd8d38eb470cf0ca33ceb998290c11dbe9c74d23",
-  "payload_size": 99285376,
-  "notes": "씨댄스 동영상 프롬프트가 조각마다 다른 장면, 시간대, 구도, 움직임, 색감, 카메라 연출을 쓰도록 다양화했습니다."
+  "payload_sha256": "80c66d20606079be5b584516214e1c071e85dfee9a8e9f7314091301a7cbd1de",
+  "payload_size": 99282902,
+  "notes": "씨댄스 동영상 프롬프트가 대본의 띠 동물을 반드시 중심에 보이게 하면서 장면 연출은 다양하게 만들도록 개선했습니다."
 }
