@@ -1,11 +1,11 @@
 {
-  "version": "1.2.90",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.90.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.90.exe",
-  "sha256": "1508bffbf0ab2db45933874163d246be112bd79b9c627cc133668278af8f4515",
+  "version": "1.2.91",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.91.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.91.exe",
+  "sha256": "17fd849e858d0388b6a5ad643346fa9e53020c7dd1597f546a91746d217bd25d",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge_1.2.90.bin",
-  "payload_sha256": "4b263f553854e6971873a8e908a90b42eaaf1ad9ea4f7b9e3ace60452d1e38cd",
-  "payload_size": 99293722,
-  "notes": "전송 확인창과 저장 완료창의 버튼이 항상 보이도록 보강했습니다. 타로 분리, 긴 SRT, 전체 음성, 자동업데이트 검증도 유지됩니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge_1.2.91.bin",
+  "payload_sha256": "d51ae8b1615ddebab72fc5b4500e061b4f49ee91872940f6147ebd62e6f1aaf0",
+  "payload_size": 99295250,
+  "notes": "일부만 완성된 상태에서 전체 완료처럼 보이던 문구를 고쳤습니다. 이제 일부 저장 가능과 전체 완료를 분리해서 보여줍니다."
 }
