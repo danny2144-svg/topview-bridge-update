@@ -1,11 +1,11 @@
 {
-  "version": "1.2.94",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.94.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.94.exe",
-  "sha256": "e7fb8520a41cd9af5fca2e8b2840a519778d7c575360d9e3ae099cea9697e184",
+  "version": "1.2.95",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.95.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.95.exe",
+  "sha256": "68322cbb16eebc9e3818e7336343ca07c50c26ee996b2c61b40354008efd22c0",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge_1.2.94.bin",
-  "payload_sha256": "2ad300ce7fa21d6950318d7b4bbaa47ade7d00a87792e569d7fc62b73126dae8",
-  "payload_size": 99295860,
-  "notes": "타로 방식 선택지 감지를 더 보강했습니다. 자,이번/다음으로두번째/계속해서3번/마지막으로넷번째 같은 붙은 표현도 잡고, 업데이트 빌드 때 updater가 새 payload 해시를 자동으로 따라가게 했습니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge_1.2.95.bin",
+  "payload_sha256": "6576138a3cbfd79cf80208202964ad808428e2e51cb8ae542abcf712d629c905",
+  "payload_size": 99296190,
+  "notes": "타로 분리 로직을 더 넓게 보강했습니다. 01번, ①번, 첫 번째, 하나번째, 자/이제/그럼+일번/이번/삼번/사번 같은 실제 원고 표현을 추가 감지하고, 선택지를 찾지 못하면 전체 1.mp3로 저장하지 않고 전송 전에 막습니다. 업데이트 파일과 실행 파일 해시도 1.2.95 기준으로 다시 확인했습니다."
 }
