@@ -1,11 +1,11 @@
 {
-  "version": "1.2.91",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.91.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.91.exe",
-  "sha256": "17fd849e858d0388b6a5ad643346fa9e53020c7dd1597f546a91746d217bd25d",
+  "version": "1.2.92",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.92.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.92.exe",
+  "sha256": "ee66c2cfbec20c9a3a95265422ee91b3592de7a7126bf8b89d9e5af7af54c03a",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge_1.2.91.bin",
-  "payload_sha256": "d51ae8b1615ddebab72fc5b4500e061b4f49ee91872940f6147ebd62e6f1aaf0",
-  "payload_size": 99295250,
-  "notes": "일부만 완성된 상태에서 전체 완료처럼 보이던 문구를 고쳤습니다. 이제 일부 저장 가능과 전체 완료를 분리해서 보여줍니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge_1.2.92.bin",
+  "payload_sha256": "88b0de29b59f8a1d43c7f35b1e4496b0d2d532031f35c857bf32f1f7dfe16476",
+  "payload_size": 99294364,
+  "notes": "?? ?? ??? ???? ?? ??? ?? PC?? ? ??? ??? ?????. ?? ?? ?? ??? ?? ? ????? ??? ????."
 }
