@@ -1,11 +1,12 @@
 {
   "version": "1.2.96",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.96.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridgeUpdater_1.2.96.exe",
-  "sha256": "08df6d73167f34c8a9c7398b13fc8867e21c9dd08b3028a3f6f5399541a80f0b",
+  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridgeUpdater_1.2.96.exe",
+  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridgeUpdater_1.2.96.exe",
+  "sha256": "08eef09f786978b00691d1c69d4f088d5e91e9f2ed08d6725735c8c3b8256d01",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/TopViewBridge_1.2.96.bin",
-  "payload_sha256": "8b6b46cc616ab8959f43e7564ec0d2e6df2e3882a584a9ccbed6d9018ab73a58",
-  "payload_size": 99296078,
-  "notes": "타로 선택지 감지를 더 보강했습니다. 카드1번, 선택지 2번, 타로 ③번, 리딩 네 번째, 옵션 04번처럼 앞에 말이 붙는 실제 원고 표기를 추가로 인식합니다. 일번/이번/삼번/사번, 1번/2번, 01번, ①번, 첫 번째/하나번째 조합도 계속 지원합니다. 선택지를 못 찾으면 전체 1.mp3로 저장하지 않고 전송 전에 막습니다. 업데이트 파일과 실행 파일 해시를 1.2.96 기준으로 다시 확인했습니다."
+  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridge_1.2.96.bin",
+  "payload_sha256": "4e10ac4597012e064bcf3f49162fabd213bf70067001a718ffe26db444414d36",
+  "payload_size": 99294633,
+  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridge_1.2.96_distribution.zip",
+  "notes": "다운로드 구조를 GitHub Releases 방식으로 변경했습니다. repo에는 update-v2.json만 남기고, 큰 exe/bin 파일은 Release 첨부파일에서 받습니다. 타로 선택지 감지는 카드1번, 선택지 2번, 타로 ③번, 리딩 네 번째, 옵션 04번 같은 실제 원고 표기를 추가로 인식합니다. 업데이트 파일과 실행 파일 해시를 1.2.96 Release 기준으로 검증했습니다."
 }
