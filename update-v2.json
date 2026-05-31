@@ -1,12 +1,12 @@
 {
-  "version": "1.2.96",
-  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridgeUpdater_1.2.96.exe",
-  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridgeUpdater_1.2.96.exe",
-  "sha256": "08eef09f786978b00691d1c69d4f088d5e91e9f2ed08d6725735c8c3b8256d01",
+  "version": "1.2.97",
+  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridgeUpdater_1.2.97.exe",
+  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridgeUpdater_1.2.97.exe",
+  "sha256": "5add00cabb22a1968e91e128c575dfd8fd8b2e8cdeef9c6c82e38096219a4c07",
   "size": 1100000,
-  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridge_1.2.96.bin",
-  "payload_sha256": "4e10ac4597012e064bcf3f49162fabd213bf70067001a718ffe26db444414d36",
-  "payload_size": 99294633,
-  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.96/TopViewBridge_1.2.96_distribution.zip",
-  "notes": "다운로드 구조를 GitHub Releases 방식으로 변경했습니다. repo에는 update-v2.json만 남기고, 큰 exe/bin 파일은 Release 첨부파일에서 받습니다. 타로 선택지 감지는 카드1번, 선택지 2번, 타로 ③번, 리딩 네 번째, 옵션 04번 같은 실제 원고 표기를 추가로 인식합니다. 업데이트 파일과 실행 파일 해시를 1.2.96 Release 기준으로 검증했습니다."
+  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridge_1.2.97.bin",
+  "payload_sha256": "19ba662097efa8d3ea0d5d9b10feeb1105ed5115f04541b8ae38c22ef07176fa",
+  "payload_size": 99297260,
+  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridge_1.2.97_distribution.zip",
+  "notes": "동영상 프롬프트 다양성을 보강했습니다. 5개 생성 기준으로 동물 등장 3개, 동물 없음 2개가 보이도록 나누고, 동물 등장 컷은 대본에서 잡힌 띠 동물을 유지하면서 장면과 연출이 반복되지 않게 했습니다. 업데이트 파일과 실행 파일 해시를 1.2.97 Release 기준으로 검증했습니다."
 }
