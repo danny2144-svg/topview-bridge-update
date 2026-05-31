@@ -1,12 +1,12 @@
 {
-  "version": "1.2.99",
-  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.99/TopViewBridgeUpdater_1.2.99.exe",
-  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.99/TopViewBridgeUpdater_1.2.99.exe",
-  "sha256": "483d63e46d00d235d384433736b6c9f84cc51839921da5bfd58be67bbfbd8a5a",
+  "version": "1.2.100",
+  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridgeUpdater_1.2.100.exe",
+  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridgeUpdater_1.2.100.exe",
+  "sha256": "cb57f13594900ba8dacfcb9f2e14e4ec3ac4f334fb93ffec90d9c729c2382e56",
   "size": 1100000,
-  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.99/TopViewBridge_1.2.99.bin",
-  "payload_sha256": "6f9b2916497865d8a421ad8089527bed5d5cb86aa1fb6c6c3baf7b18b31c727c",
-  "payload_size": 99299181,
-  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.99/TopViewBridge_1.2.99_distribution.zip",
-  "notes": "동영상 프롬프트에서 띠 동물은 유지하되 상황이 반복되지 않도록 보강했습니다. 5개 기준으로 동물 등장 3개, 동물 없음 2개를 유지하고, 동물 등장 컷도 산길, 시장, 강가, 문 앞, 부엌, 문서방처럼 서로 다른 Situation을 강제합니다."
+  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridge_1.2.100.bin",
+  "payload_sha256": "27c437d49fa56c2235e72e4c6c19aee4f1df7cf01da7669e37be12384a6b07a8",
+  "payload_size": 99298030,
+  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridge_1.2.100_distribution.zip",
+  "notes": "자막 설정을 사용함/사용 안 함으로 단순화했습니다. 자막을 사용함으로 두면 빠르게/정밀 선택 없이 항상 최고품질 음성 기준 싱크로 자동자막을 만듭니다."
 }
