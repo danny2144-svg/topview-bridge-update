@@ -1,12 +1,12 @@
 {
-  "version": "1.2.97",
-  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridgeUpdater_1.2.97.exe",
-  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridgeUpdater_1.2.97.exe",
-  "sha256": "5add00cabb22a1968e91e128c575dfd8fd8b2e8cdeef9c6c82e38096219a4c07",
+  "version": "1.2.98",
+  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.98/TopViewBridgeUpdater_1.2.98.exe",
+  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.98/TopViewBridgeUpdater_1.2.98.exe",
+  "sha256": "a42ceec84f110274b4c30872eb4bfb9d1535d8ab516827ba9b17c8e1595c5098",
   "size": 1100000,
-  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridge_1.2.97.bin",
-  "payload_sha256": "19ba662097efa8d3ea0d5d9b10feeb1105ed5115f04541b8ae38c22ef07176fa",
-  "payload_size": 99297260,
-  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.97/TopViewBridge_1.2.97_distribution.zip",
-  "notes": "동영상 프롬프트 다양성을 보강했습니다. 5개 생성 기준으로 동물 등장 3개, 동물 없음 2개가 보이도록 나누고, 동물 등장 컷은 대본에서 잡힌 띠 동물을 유지하면서 장면과 연출이 반복되지 않게 했습니다. 업데이트 파일과 실행 파일 해시를 1.2.97 Release 기준으로 검증했습니다."
+  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.98/TopViewBridge_1.2.98.bin",
+  "payload_sha256": "89ee27f59aed5851f913b748f22439dd750c686c1fbf43de1bba3d2cf1fafec5",
+  "payload_size": 99297910,
+  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.98/TopViewBridge_1.2.98_distribution.zip",
+  "notes": "동영상 프롬프트 다양성을 보강했습니다. 5개 생성 기준으로 동물 등장 3개, 동물 없음 2개가 보이도록 나누고, 동물 등장 컷은 대본에서 잡힌 띠 동물을 유지하면서 장면과 연출이 반복되지 않게 했습니다. 새 실행파일부터 업데이트 확인은 GitHub raw 캐시 대신 GitHub API manifest를 기본으로 사용합니다."
 }
