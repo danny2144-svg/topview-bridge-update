@@ -1,12 +1,12 @@
 {
-  "version": "1.2.104",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridgeUpdater_1.2.104.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridgeUpdater_1.2.104.exe",
-  "sha256": "c1f99c37945af357ad79708bd4333ab9e7ecb048081f06301d1fdcd0dcbaa28a",
+  "version": "1.2.105",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.105/TopViewBridgeUpdater_1.2.105.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.105/TopViewBridgeUpdater_1.2.105.exe",
+  "sha256": "85ad0f8dbe324d6480bebdba3ea059e3d3f40d40e399670c32996ff8e4ac69f3",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridge_1.2.104.bin",
-  "payload_sha256": "cdd71449c84904b0ab418ab8b226f6002c9623e3b742ac4bfffbb5f75713075d",
-  "payload_size": 99276778,
-  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridge_1.2.104_distribution.zip",
-  "notes": "타로 원고가 4번만 있어도 4번 선택지만 분할되도록 수정했습니다. 선택지 헤더가 없는 원고는 계속 전송 전 차단합니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.105/TopViewBridge_1.2.105.bin",
+  "payload_sha256": "91fda495566d52f822be84aaefd8574faa9cdcde4ee17414cc08e12264486fd0",
+  "payload_size": 99277758,
+  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.105/TopViewBridge_1.2.105_distribution.zip",
+  "notes": "타로 선택지 표기를 더 유도리 있게 인식하도록 수정했습니다. 1번분들, 선택 2 여러분, 3번째로 들어오신 분들, 카드 4번으로 오신 분들도 선택지로 나눕니다."
 }
