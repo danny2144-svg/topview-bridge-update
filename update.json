@@ -1,12 +1,12 @@
 {
-  "version": "1.2.103",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridgeUpdater_1.2.103.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridgeUpdater_1.2.103.exe",
-  "sha256": "605900b50a8658128b6fb3e9336a87b9033736d215d542cb512207bc791fa388",
+  "version": "1.2.104",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridgeUpdater_1.2.104.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridgeUpdater_1.2.104.exe",
+  "sha256": "c1f99c37945af357ad79708bd4333ab9e7ecb048081f06301d1fdcd0dcbaa28a",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridge_1.2.103.bin",
-  "payload_sha256": "9e6b8c6510f5fa89e5a6c074c4408e78ac4ac024bad0060d65543acea684867e",
-  "payload_size": 99276882,
-  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridge_1.2.103_distribution.zip",
-  "notes": "분할하기 결과 화면에서 분할된 대본이 맨 위에 보이고, 비용 0원 안내/예상 작업/저장 파일/동영상 프롬프트 미리보기는 대본 아래에 나오도록 정리했습니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridge_1.2.104.bin",
+  "payload_sha256": "cdd71449c84904b0ab418ab8b226f6002c9623e3b742ac4bfffbb5f75713075d",
+  "payload_size": 99276778,
+  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.104/TopViewBridge_1.2.104_distribution.zip",
+  "notes": "타로 원고가 4번만 있어도 4번 선택지만 분할되도록 수정했습니다. 선택지 헤더가 없는 원고는 계속 전송 전 차단합니다."
 }
