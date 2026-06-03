@@ -1,12 +1,12 @@
 {
-  "version": "1.2.102",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.102/TopViewBridgeUpdater_1.2.102.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.102/TopViewBridgeUpdater_1.2.102.exe",
-  "sha256": "ce5d839f74c25d15af19b3dd35d435c67e36b373da8ee2edadeaf9a02b5f81e3",
+  "version": "1.2.103",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridgeUpdater_1.2.103.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridgeUpdater_1.2.103.exe",
+  "sha256": "605900b50a8658128b6fb3e9336a87b9033736d215d542cb512207bc791fa388",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.102/TopViewBridge_1.2.102.bin",
-  "payload_sha256": "5fface32f40f7ee0425db93b850c3b8615338bea17c9aa68f59f3f8a2765dfdf",
-  "payload_size": 99274947,
-  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.102/TopViewBridge_1.2.102_distribution.zip",
-  "notes": "속도 선택에 0.95와 1.05를 추가했습니다. 선택한 속도가 한 자리 소수로 뭉개지지 않고 TopView voiceSpeed 값으로 그대로 전송되도록 보강했습니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridge_1.2.103.bin",
+  "payload_sha256": "9e6b8c6510f5fa89e5a6c074c4408e78ac4ac024bad0060d65543acea684867e",
+  "payload_size": 99276882,
+  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.103/TopViewBridge_1.2.103_distribution.zip",
+  "notes": "분할하기 결과 화면에서 분할된 대본이 맨 위에 보이고, 비용 0원 안내/예상 작업/저장 파일/동영상 프롬프트 미리보기는 대본 아래에 나오도록 정리했습니다."
 }
