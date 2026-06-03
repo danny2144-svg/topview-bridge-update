@@ -1,12 +1,12 @@
 {
   "version": "1.2.101",
-  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridgeUpdater_1.2.101.exe",
-  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridgeUpdater_1.2.101.exe",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.101/TopViewBridgeUpdater_1.2.101.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.101/TopViewBridgeUpdater_1.2.101.exe",
   "sha256": "cd0b2eb969e50d2e397113b049ea61190cc18c3b0bdba04bf44b817910050c56",
   "size": 1100000,
-  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridge_1.2.101.bin",
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.101/TopViewBridge_1.2.101.bin",
   "payload_sha256": "ec805b211b5ff3e32ac09879194157f670b94ead8cc22a86d3c91ca042fde818",
   "payload_size": 99277085,
-  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridge_1.2.101_distribution.zip",
+  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.101/TopViewBridge_1.2.101_distribution.zip",
   "notes": "업데이트 대상 파일을 더 안정적으로 찾도록 보강했습니다. TopView 전송 응답의 작업 ID 인식 범위를 넓히고, ID를 못 찾을 때 첫 실패 원인을 화면에 표시합니다."
 }
