@@ -1,12 +1,12 @@
 {
-  "version": "1.2.100",
-  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridgeUpdater_1.2.100.exe",
-  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridgeUpdater_1.2.100.exe",
-  "sha256": "cb57f13594900ba8dacfcb9f2e14e4ec3ac4f334fb93ffec90d9c729c2382e56",
+  "version": "1.2.101",
+  "url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridgeUpdater_1.2.101.exe",
+  "download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridgeUpdater_1.2.101.exe",
+  "sha256": "cd0b2eb969e50d2e397113b049ea61190cc18c3b0bdba04bf44b817910050c56",
   "size": 1100000,
-  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridge_1.2.100.bin",
-  "payload_sha256": "27c437d49fa56c2235e72e4c6c19aee4f1df7cf01da7669e37be12384a6b07a8",
-  "payload_size": 99298030,
-  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.100/TopViewBridge_1.2.100_distribution.zip",
-  "notes": "자막 설정을 사용함/사용 안 함으로 단순화했습니다. 자막을 사용함으로 두면 빠르게/정밀 선택 없이 항상 최고품질 음성 기준 싱크로 자동자막을 만듭니다."
+  "payload_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridge_1.2.101.bin",
+  "payload_sha256": "ec805b211b5ff3e32ac09879194157f670b94ead8cc22a86d3c91ca042fde818",
+  "payload_size": 99277085,
+  "manual_download_url": "https://github.com/danny2144-svg/topview-bridge-update/releases/download/v1.2.101/TopViewBridge_1.2.101_distribution.zip",
+  "notes": "업데이트 대상 파일을 더 안정적으로 찾도록 보강했습니다. TopView 전송 응답의 작업 ID 인식 범위를 넓히고, ID를 못 찾을 때 첫 실패 원인을 화면에 표시합니다."
 }
