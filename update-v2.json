@@ -1,12 +1,12 @@
 {
-  "version": "1.2.107",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.107/TopViewBridgeUpdater_1.2.107.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.107/TopViewBridgeUpdater_1.2.107.exe",
-  "sha256": "f5b0ff6558772ae9925e39c0b91242734b4e4656f15307d6e4293968ab912e17",
+  "version": "1.2.108",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridgeUpdater_1.2.108.exe",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridgeUpdater_1.2.108.exe",
+  "sha256": "debc1b106e6017417fd90e5873f7c804790cfbd4037c7467d7e4db3c828defe0",
   "size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.107/TopViewBridge_1.2.107.bin",
-  "payload_sha256": "349d3a136e0cbffb9d1d44717a54979720ce95e7aab22d586affc7f991417842",
-  "payload_size": 99277247,
-  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.107/TopViewBridge_1.2.107_distribution.zip",
-  "notes": "리라이팅된 타로 대본도 더 유도리 있게 나눕니다. No.4, 4번쪽, 두 번째 리딩부터 볼게요, 네 번째 물건을 집으신 분 같은 표현도 선택지로 인식합니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108.bin",
+  "payload_sha256": "7b0e93a446bf8f387571738c63d3cfaf2627a7973add77c467bc41a6b42ebc69",
+  "payload_size": 99277627,
+  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108_distribution.zip",
+  "notes": "사주 첫 조각 아바타동영상은 avatar4만 사용하도록 검증을 강화하고, 리라이팅된 타로 진행 문장 분할을 보강했습니다."
 }
