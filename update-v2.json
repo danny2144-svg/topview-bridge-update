@@ -1,12 +1,15 @@
 {
   "version": "1.2.108",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridgeUpdater_1.2.108.exe",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridgeUpdater_1.2.108.exe",
-  "sha256": "debc1b106e6017417fd90e5873f7c804790cfbd4037c7467d7e4db3c828defe0",
-  "size": 1100000,
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108.bin",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108.bin",
+  "sha256": "7b0e93a446bf8f387571738c63d3cfaf2627a7973add77c467bc41a6b42ebc69",
+  "size": 99277627,
+  "updater_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridgeUpdater_1.2.108.exe",
+  "updater_sha256": "debc1b106e6017417fd90e5873f7c804790cfbd4037c7467d7e4db3c828defe0",
+  "updater_size": 1100000,
   "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108.bin",
   "payload_sha256": "7b0e93a446bf8f387571738c63d3cfaf2627a7973add77c467bc41a6b42ebc69",
   "payload_size": 99277627,
   "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108_distribution.zip",
-  "notes": "사주 첫 조각 아바타동영상은 avatar4만 사용하도록 검증을 강화하고, 리라이팅된 타로 진행 문장 분할을 보강했습니다."
+  "notes": "업데이트 실패를 줄이기 위해 앱 파일을 직접 받아 교체하는 방식으로 전환했습니다. 사주 첫 조각 아바타동영상은 avatar4만 사용하도록 검증을 강화하고, 리라이팅된 타로 진행 문장 분할을 보강했습니다."
 }
