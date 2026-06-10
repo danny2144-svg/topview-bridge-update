@@ -1,15 +1,15 @@
 {
-  "version": "1.2.108",
-  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108.bin",
-  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108.bin",
-  "sha256": "7b0e93a446bf8f387571738c63d3cfaf2627a7973add77c467bc41a6b42ebc69",
-  "size": 99277627,
-  "updater_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridgeUpdater_1.2.108.exe",
-  "updater_sha256": "debc1b106e6017417fd90e5873f7c804790cfbd4037c7467d7e4db3c828defe0",
+  "version": "1.2.109",
+  "url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.109/TopViewBridge_1.2.109.bin",
+  "download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.109/TopViewBridge_1.2.109.bin",
+  "sha256": "b5a2f772d8d2d67197a8ce384f258d6e2d60e9925c191a0be1ee220c657fdc58",
+  "size": 99277711,
+  "updater_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.109/TopViewBridgeUpdater_1.2.109.exe",
+  "updater_sha256": "31a9f1af33d9ac9ddcb2ae3ab24f263433db629218d31972da600b23dc8b95fc",
   "updater_size": 1100000,
-  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108.bin",
-  "payload_sha256": "7b0e93a446bf8f387571738c63d3cfaf2627a7973add77c467bc41a6b42ebc69",
-  "payload_size": 99277627,
-  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.108/TopViewBridge_1.2.108_distribution.zip",
-  "notes": "업데이트 실패를 줄이기 위해 앱 파일을 직접 받아 교체하는 방식으로 전환했습니다. 사주 첫 조각 아바타동영상은 avatar4만 사용하도록 검증을 강화하고, 리라이팅된 타로 진행 문장 분할을 보강했습니다."
+  "payload_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.109/TopViewBridge_1.2.109.bin",
+  "payload_sha256": "b5a2f772d8d2d67197a8ce384f258d6e2d60e9925c191a0be1ee220c657fdc58",
+  "payload_size": 99277711,
+  "manual_download_url": "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.109/TopViewBridge_1.2.109_distribution.zip",
+  "notes": "TopView 응답의 작업 ID 형식이 달라져도 자동 확인을 시작할 수 있도록 작업 ID 추출을 보강했습니다."
 }
