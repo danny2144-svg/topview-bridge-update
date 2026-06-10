@@ -1,15 +1,15 @@
 ﻿{
-    "version":  "1.2.110",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.110/TopViewBridge_1.2.110.bin",
-    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.110/TopViewBridge_1.2.110.bin",
-    "sha256":  "509f58b55abe01b9f1330f15512524c32c2ce1e96c3bfeb60d7f5b0af0e29167",
-    "size":  99281986,
-    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.110/TopViewBridgeUpdater_1.2.110.exe",
-    "updater_sha256":  "97e633d5f25bf7529219e2dd4dcaca4266bd57630a2789257b42b866b5f6b338",
+    "version":  "1.2.111",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111.bin",
+    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111.bin",
+    "sha256":  "298a4c5759a9b46d5b4e6f7e5712cf219370cd38a29016d4c9da132c89f548bc",
+    "size":  99278739,
+    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridgeUpdater_1.2.111.exe",
+    "updater_sha256":  "2c28150081ea0ea92f3205e8626d02f0b8148fa2c4aacc3174eeb8eddc11319d",
     "updater_size":  1100000,
-    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.110/TopViewBridge_1.2.110.bin",
-    "payload_sha256":  "509f58b55abe01b9f1330f15512524c32c2ce1e96c3bfeb60d7f5b0af0e29167",
-    "payload_size":  99281986,
-    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.110/TopViewBridge_1.2.110_distribution.zip",
-    "notes":  "TopView 음성 전송이 감정/속도 옵션 때문에 거절될 때 안전 옵션으로 재시도하고, 실패 원문을 화면에 표시하도록 수정했습니다."
+    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111.bin",
+    "payload_sha256":  "298a4c5759a9b46d5b4e6f7e5712cf219370cd38a29016d4c9da132c89f548bc",
+    "payload_size":  99278739,
+    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111_distribution.zip",
+    "notes":  "TopView 음성 속도 1.3처럼 지원 범위 밖인 값은 전송 전에 명확히 거절하고, 속도 오류를 작업 ID 없음으로 숨기지 않도록 수정했습니다."
 }
