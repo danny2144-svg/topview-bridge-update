@@ -1,15 +1,15 @@
 ﻿{
-    "version":  "1.2.111",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111.bin",
-    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111.bin",
-    "sha256":  "298a4c5759a9b46d5b4e6f7e5712cf219370cd38a29016d4c9da132c89f548bc",
-    "size":  99278739,
-    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridgeUpdater_1.2.111.exe",
-    "updater_sha256":  "2c28150081ea0ea92f3205e8626d02f0b8148fa2c4aacc3174eeb8eddc11319d",
+    "version":  "1.2.112",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112.bin",
+    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112.bin",
+    "sha256":  "a1e88362430dbacce00f71031da9bd1bfc9fa61db436aab24ddcb9f8f9d30601",
+    "size":  99282345,
+    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridgeUpdater_1.2.112.exe",
+    "updater_sha256":  "40c40760515b820638876aa40dc1b3ded732aab28ed491dbdda19860108987d3",
     "updater_size":  1100000,
-    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111.bin",
-    "payload_sha256":  "298a4c5759a9b46d5b4e6f7e5712cf219370cd38a29016d4c9da132c89f548bc",
-    "payload_size":  99278739,
-    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.111/TopViewBridge_1.2.111_distribution.zip",
-    "notes":  "TopView 음성 속도 1.3처럼 지원 범위 밖인 값은 전송 전에 명확히 거절하고, 속도 오류를 작업 ID 없음으로 숨기지 않도록 수정했습니다."
+    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112.bin",
+    "payload_sha256":  "a1e88362430dbacce00f71031da9bd1bfc9fa61db436aab24ddcb9f8f9d30601",
+    "payload_size":  99282345,
+    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112_distribution.zip",
+    "notes":  "사주 방식 첫 아바타 영상을 120자 기준으로 조정하고, 짧은 첫 문장이 46자에서 끊기지 않도록 자연스러운 끊김 지점까지 채우도록 수정했습니다."
 }
