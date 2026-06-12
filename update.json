@@ -1,15 +1,15 @@
 ﻿{
-    "version":  "1.2.112",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112.bin",
-    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112.bin",
-    "sha256":  "a1e88362430dbacce00f71031da9bd1bfc9fa61db436aab24ddcb9f8f9d30601",
-    "size":  99282345,
-    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridgeUpdater_1.2.112.exe",
-    "updater_sha256":  "40c40760515b820638876aa40dc1b3ded732aab28ed491dbdda19860108987d3",
+    "version":  "1.2.113",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113.bin",
+    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113.bin",
+    "sha256":  "dce986ff3552efca8b72626038711e7204da7672525e97de32a5ee205b48a525",
+    "size":  99282402,
+    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridgeUpdater_1.2.113.exe",
+    "updater_sha256":  "b6349f068fd7d6e47be80efdfb736aa5d0b575ae8db166866e075d8c13390845",
     "updater_size":  1100000,
-    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112.bin",
-    "payload_sha256":  "a1e88362430dbacce00f71031da9bd1bfc9fa61db436aab24ddcb9f8f9d30601",
-    "payload_size":  99282345,
-    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.112/TopViewBridge_1.2.112_distribution.zip",
-    "notes":  "사주 방식 첫 아바타 영상을 120자 기준으로 조정하고, 짧은 첫 문장이 46자에서 끊기지 않도록 자연스러운 끊김 지점까지 채우도록 수정했습니다."
+    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113.bin",
+    "payload_sha256":  "dce986ff3552efca8b72626038711e7204da7672525e97de32a5ee205b48a525",
+    "payload_size":  99282402,
+    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113_distribution.zip",
+    "notes":  "계정 연결창에서 UID와 연결 키를 클립보드에서 직접 붙여넣는 버튼을 추가하고, Ctrl+V/Shift+Insert/우클릭 붙여넣기를 보강했습니다."
 }
