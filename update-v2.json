@@ -1,15 +1,15 @@
 ﻿{
-    "version":  "1.2.113",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113.bin",
-    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113.bin",
-    "sha256":  "dce986ff3552efca8b72626038711e7204da7672525e97de32a5ee205b48a525",
-    "size":  99282402,
-    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridgeUpdater_1.2.113.exe",
-    "updater_sha256":  "b6349f068fd7d6e47be80efdfb736aa5d0b575ae8db166866e075d8c13390845",
+    "version":  "1.2.114",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114.bin",
+    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114.bin",
+    "sha256":  "ef1b1d95139b7976c49f4222780ca492420f9e09e02eec804c85b8951ce805b2",
+    "size":  99156984,
+    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridgeUpdater_1.2.114.exe",
+    "updater_sha256":  "9b8319ae3d0e03520f94da692d43b6c0b3af1c7b1fa5f39675f03be740592528",
     "updater_size":  1100000,
-    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113.bin",
-    "payload_sha256":  "dce986ff3552efca8b72626038711e7204da7672525e97de32a5ee205b48a525",
-    "payload_size":  99282402,
-    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.113/TopViewBridge_1.2.113_distribution.zip",
-    "notes":  "계정 연결창에서 UID와 연결 키를 클립보드에서 직접 붙여넣는 버튼을 추가하고, Ctrl+V/Shift+Insert/우클릭 붙여넣기를 보강했습니다."
+    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114.bin",
+    "payload_sha256":  "ef1b1d95139b7976c49f4222780ca492420f9e09e02eec804c85b8951ce805b2",
+    "payload_size":  99156984,
+    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114_distribution.zip",
+    "notes":  "아바타4 첫 영상 실패 원인을 더 정확히 표시하고, Avatar4 제출 payload와 저장된 작업 타입 복구를 안정화했습니다."
 }
