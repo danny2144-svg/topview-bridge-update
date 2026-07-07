@@ -1,15 +1,15 @@
 ﻿{
-    "version":  "1.2.114",
-    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114.bin",
-    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114.bin",
-    "sha256":  "ef1b1d95139b7976c49f4222780ca492420f9e09e02eec804c85b8951ce805b2",
-    "size":  99156984,
-    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridgeUpdater_1.2.114.exe",
-    "updater_sha256":  "9b8319ae3d0e03520f94da692d43b6c0b3af1c7b1fa5f39675f03be740592528",
+    "version":  "1.2.115",
+    "url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.115/TopViewBridge_1.2.115.bin",
+    "download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.115/TopViewBridge_1.2.115.bin",
+    "sha256":  "508b800f16d9ebc42d8992908d81f247f6427d9decda5f52135f84d9f6e88caa",
+    "size":  99158523,
+    "updater_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.115/TopViewBridgeUpdater_1.2.115.exe",
+    "updater_sha256":  "74cfa960138cc84702a3b7ef0c8bbccc589f7bfb54d874ac93f97b6f5cd9d4d4",
     "updater_size":  1100000,
-    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114.bin",
-    "payload_sha256":  "ef1b1d95139b7976c49f4222780ca492420f9e09e02eec804c85b8951ce805b2",
-    "payload_size":  99156984,
-    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.114/TopViewBridge_1.2.114_distribution.zip",
-    "notes":  "아바타4 첫 영상 실패 원인을 더 정확히 표시하고, Avatar4 제출 payload와 저장된 작업 타입 복구를 안정화했습니다."
+    "payload_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.115/TopViewBridge_1.2.115.bin",
+    "payload_sha256":  "508b800f16d9ebc42d8992908d81f247f6427d9decda5f52135f84d9f6e88caa",
+    "payload_size":  99158523,
+    "manual_download_url":  "https://raw.githubusercontent.com/danny2144-svg/topview-bridge-update/main/releases/v1.2.115/TopViewBridge_1.2.115_distribution.zip",
+    "notes":  "사주 방식에서 아바타 사진 선택 초록불을 추가하고, 사진이 꺼져 있으면 전체 원고를 700자 오디오 분할로 처리하도록 안정화했습니다."
 }
